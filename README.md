@@ -2,13 +2,6 @@
 
 Suas finanças pessoais num só lugar: entradas, gastos, contas fixas, parcelas do cartão e metas.
 
-## Como publicar no GitHub Pages
-
-1. No repositório, clique em **Add file → Upload files**.
-2. Arraste **todos os arquivos desta pasta** (incluindo `.nojekyll`) e clique em **Commit changes**.
-3. Em **Settings → Pages**, deixe **Deploy from a branch**, branch **main**, pasta **/ (root)**.
-4. Em 1 a 2 minutos o app abre em `https://SEU-USUARIO.github.io/NOME-DO-REPOSITORIO/`.
-
 ## Como instalar como aplicativo
 
 - **iPhone (Safari):** abra o link → Compartilhar → **Adicionar à Tela de Início**.
